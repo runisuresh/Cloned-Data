@@ -1,0 +1,1 @@
+function calc_fold_change(metric_mean)
